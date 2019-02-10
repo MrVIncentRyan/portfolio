@@ -9,6 +9,12 @@ h1 {
 h5 {
     letter-spacing: 3px;
 }
+
+
+.container1 {
+  background-color: #f47a42;
+}
+
 .hr-light {
     border-top: 3px solid #fff;
     width: 80px;
@@ -35,8 +41,4 @@ h5 {
 }
 .footer a:hover {
   color: white;
-}
-
-.container1 {
-  background-color: #f47a42;
 }
