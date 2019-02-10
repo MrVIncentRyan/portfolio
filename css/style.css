@@ -17,7 +17,8 @@ p {
 
 .container1 {
   background-color: #ffffff;
-  border-width: 10%;
+  padding-left: 10%;
+  padding-right: 10%;
 }
 
 .container2 {
