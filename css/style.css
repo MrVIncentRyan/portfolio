@@ -15,9 +15,8 @@ p {
 }
 
 .text-center {
-  padding-top: 33%;
-  padding-left: 10%;
-  padding-right: 10%;
+  position: relative;
+  top: 30%;
 }
 
 .container1 {
