@@ -10,9 +10,13 @@ h5 {
     letter-spacing: 3px;
 }
 
+p {
+  border-width: 10%;
+}
+
 
 .container1 {
-  background-color: #f47a42;
+  background-color: #ffffff;
 }
 
 .container2 {
