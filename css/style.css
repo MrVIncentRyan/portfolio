@@ -7,6 +7,9 @@
    h5 {
       font-size: 5px !important;
    }
+   h2 {
+      font-size: 10px !important;
+   }
    .container flex-center {
     position: top 0%;
    }
@@ -23,6 +26,9 @@ h5 {
     letter-spacing: 3px;
 }
 
+h2 {
+  color: #2B3C5B;
+}
 
 
 .container1 {
