@@ -1,34 +1,25 @@
-@media all and (orientation:portrait) {
-    .navbar:not(.top-nav-collapse) {
-        background: #78909c !important;
-    }
-    h1 {
-      font-size: 15px;
-    }
-    h5 {
-      font-size: 10px;
-    } 
+@media only screen and (max-width: 767px) {
+
+   h1 {
+      font-size: 3em;
+   }
+
+   h5 {
+      font-size: 2em;
+   }
+
 }
 
 
 h1 {
     letter-spacing: 8px;
 }
-@media all and (orientation:portrait) {
-   h1 {
-      font-size: 15px;
-    }
-  }
 
 
 h5 {
     letter-spacing: 3px;
 }
-@media all and (orientation:portrait) {
-    h5 {
-      font-size: 10px;
-    } 
-  }
+
 
 
 .container1 {
