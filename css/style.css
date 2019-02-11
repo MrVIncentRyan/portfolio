@@ -1,11 +1,11 @@
 @media only screen and (max-width: 767px) {
 
    h1 {
-      font-size: 3em !important;
+      font-size: 15px !important;
    }
 
    h5 {
-      font-size: 2em !important;
+      font-size: 10px !important;
    }
 
 }
