@@ -30,6 +30,9 @@ h2 {
   color: #2B3C5B;
 }
 
+body {
+  overflow-x: hidden;
+}
 
 .container1 {
   background-color: #ffffff;
